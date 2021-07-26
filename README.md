@@ -1,4 +1,4 @@
-# Kairos
+# Ejemplo de Kairos - Kupo App
 #### Cut the line, and safe your life.
 Intelligent crowd-managing platform to decrease establishments closing rate.
 <!--![Kairos Logo](/Extra_docs/Images/logo-kairos-white.png =10x20)-->
